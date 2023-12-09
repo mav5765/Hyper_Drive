@@ -11,3 +11,5 @@ Step 4: Make sure you click run on the main file named hyper_drive, the others w
 ### Controls ###
 
 Use the arrow keys to move left and right, spacebar to shoot, and Q to quit.
+
+last updated on 12/8/2023 and I left off on creating a play button and a working title screen.
